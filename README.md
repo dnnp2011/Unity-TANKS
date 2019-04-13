@@ -7,7 +7,7 @@ while simultaneously dealing with incoming fire, and attempting to correctly ran
 players control their tanks from the same keyboard. The blue tank in the top-left is controlled by the AWSD keys, and can fire using the spacebar. 
 On the other hand, the red tank in the bottom-right is controlled via the arrow keys, and may fire their main gun using the enter key.
 <br /><br />
-One of the intersting features of TANKS is the dynamic camera zoom. It is constantly adjusting its zoom and position in order to keep 
+One of the interesting features of TANKS is the dynamic camera zoom. It is constantly adjusting its zoom and position in order to keep 
 both players in view at all times - an important feature when both players are controlling their avatars from a single computer. Like 
 several of my other games, TANKS was also built using the Unity game engine.
 
